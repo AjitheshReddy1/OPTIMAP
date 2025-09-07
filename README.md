@@ -223,10 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SentenceTransformers** - AI/ML capabilities
 - **React Team** - Amazing frontend framework
 
-## 📞 Support
-
-For support, email support@optmap.com or create an issue in the repository.
-
 ---
 
 **Built with ❤️ using React, TypeScript, Python, and AI**
