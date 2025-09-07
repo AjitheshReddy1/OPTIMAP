@@ -1,0 +1,11 @@
+name,required_skills,seniority,timeline,priority
+E-commerce Platform,"React,Node.js,PostgreSQL,Payment Integration",Senior,6 months,High
+Data Analytics Dashboard,"Python,SQL,Tableau,Data Visualization",Mid,3 months,Medium
+Mobile Banking App,"React Native,iOS,Android,Security",Senior,8 months,High
+AI Chatbot System,"Python,Machine Learning,NLP,API Development",Senior,4 months,Medium
+Website Redesign,"HTML,CSS,JavaScript,UI/UX",Junior,2 months,Low
+Cloud Migration Project,"AWS,Docker,Kubernetes,DevOps",Lead,5 months,High
+IoT Data Collection,"Python,Database Design,API Development,Real-time Processing",Mid,3 months,Medium
+Social Media App,"React,Node.js,Real-time Features,Social Features",Senior,6 months,High
+Testing Automation Suite,"Selenium,Testing Frameworks,CI/CD,Quality Assurance",Mid,2 months,Low
+Enterprise Dashboard,"Java,Spring Boot,Microservices,Enterprise Integration",Senior,4 months,Medium
